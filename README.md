@@ -10,10 +10,6 @@
 <p выравнивание="слева">
 </p>
 
-<h3 align="left">Языки и инструменты:</h3>
+<h3 align="left">Языки:</h3>
 <p align="left"> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api? имя пользователя=exudenis&show_icons=true&locale=en" alt="exudenis" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/? user=exudenis&" alt="exudenis" /></p>
 
